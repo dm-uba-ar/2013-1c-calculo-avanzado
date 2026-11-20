@@ -1,10 +1,5 @@
 # Cálculo Avanzado — Primer cuatrimestre de 2013
 
-## Equipo docente
-
-- **Clases teóricas:** Pablo Groisman
-- **Clases prácticas:** Irene Drelichman, Martín Savransky, Matías Saucedo, Ayelén Galarza Rial
-
 ## Prácticas
 
 - [Práctica 9](prac9.pdf)
